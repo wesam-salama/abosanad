@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "855939268409",
+    "project_id": "wesam-chatlly",
+    "storage_bucket": "wesam-chatlly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855939268409:android:4dceb0e3a2ec6c6e2db2e8",
+        "android_client_info": {
+          "package_name": "com.wesamchattly.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855939268409-9e4f4gbn3pk29doc4atm9fcj3scud90k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBynf13w6rnqNydC_HUmzcOVzqho8ubN-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855939268409-9e4f4gbn3pk29doc4atm9fcj3scud90k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855939268409-otge058rdg06k7l19116g8d63ehp6e6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wesamchattly.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

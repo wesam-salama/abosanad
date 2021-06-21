@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>855939268409-otge058rdg06k7l19116g8d63ehp6e6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855939268409-otge058rdg06k7l19116g8d63ehp6e6n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>855939268409-ecskk9o90c3r5ech19eug3scno9lej28.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_Tg2eITbwZxzfqSajJbaKnmeXBWiMKr0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855939268409</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wesamchattly.chat</string>
+	<key>PROJECT_ID</key>
+	<string>wesam-chatlly</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wesam-chatlly.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855939268409:ios:62d2e4a05a63fc6a2db2e8</string>
+</dict>
+</plist>
